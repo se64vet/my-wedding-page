@@ -2,6 +2,9 @@ html{
     width: 100%;
     overflow-x: hidden;
 }
+body{
+    font-family: 'Inconsolata', monospace;
+}
 
 /* css ultilities class */
 .script-font{
